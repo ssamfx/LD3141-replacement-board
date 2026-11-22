@@ -48,7 +48,7 @@ The values follow the original schematic as closely as I could get them from the
 | Q1, Q2 | BC847C | Use the ones from the same batch for consistency |
 | C1 | not fitted | Optional 4.7–10 pF C0G Miller cap, only if you see ringing on the bench |
 
-LCSC part numbers are in `production/BOM_detailed.csv`.
+LCSC part numbers are in `production/BOM_JLCPCB.csv`.
 
 ## About
 
